@@ -1,1 +1,1 @@
-import AbstractModalHeader from "react-bootstrap/esm/AbstractModalHeader";
+import { AccordionHeader } from "react-bootstrap";
