@@ -6,7 +6,7 @@ import { NavbarAll } from "./Componet/Narbar/NavbarAll";
 const App = () => {
   return (
     <div>
-      <NavbarAll />
+    ssasa
     </div>
   );
 };
